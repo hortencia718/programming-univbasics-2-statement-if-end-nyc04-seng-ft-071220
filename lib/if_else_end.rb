@@ -4,4 +4,4 @@ if TRUE
 else 
   puts "odd!"
 end
-authenticate_or_request_with_http_digest# Write your solution here
+# Write your solution here
