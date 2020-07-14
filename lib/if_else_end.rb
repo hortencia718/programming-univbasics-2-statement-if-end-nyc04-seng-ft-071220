@@ -14,7 +14,7 @@
    puts "odd!"
  end
  
- if Time.now.to_i.even?
+ if current_time.even?
    puts "Even!"
  else
    puts "odd!"
