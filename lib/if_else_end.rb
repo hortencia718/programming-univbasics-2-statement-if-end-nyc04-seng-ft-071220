@@ -3,7 +3,7 @@
 # current_time = Time.now
 
 # current_time.to_i
- if Time.now.to_i % 2 == 1
+ if Time.now.to_i % 2 == 0
    puts "Even!"
  else
    puts "odd!"
