@@ -1,9 +1,9 @@
-time.now.year
-if TRUE
-  puts "its Even!"
-else 
-  puts "odd!"
-end
+# time.now.year
+# if TRUE
+#   puts "its Even!"
+# else 
+#   puts "odd!"
+# end
 # Write your solution here
 current_time = Time.now
 current_time =
